@@ -16,4 +16,4 @@ Este projeto foi feito a partir de um desafio do [**Frontend Mentor**](https://w
 
 - [x]  Uso semântico do HTML
 - [x]  Uso de variáveis globais no `:root`
-- [x]  Importação de `font` local;
+- [x]  Importação de `font` do [Google Fonts](https://fonts.google.com/);
