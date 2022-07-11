@@ -5,6 +5,7 @@
 ## 💻 Projeto
 
 Este projeto foi feito a partir de um desafio do [**Frontend Mentor**](https://www.frontendmentor.io).
+O desafio pode ser encontrado neste [_link_](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 
 ## 🚀 Tecnologias
