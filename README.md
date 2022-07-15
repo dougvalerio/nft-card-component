@@ -17,4 +17,5 @@ O desafio pode ser encontrado neste [_link_](https://www.frontendmentor.io/chall
 
 - [x]  Uso semântico do HTML
 - [x]  Uso de variáveis globais no `:root`
+- [x]  Uso do CSS `Flexbox`
 - [x]  Importação de `font` do [Google Fonts](https://fonts.google.com/);
